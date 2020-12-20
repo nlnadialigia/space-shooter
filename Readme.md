@@ -37,6 +37,8 @@ ___
  Criação do jogo Space Shooter no Bootcamp da Digial Innovation One.
  
  Itens abordados na construção do jogo: posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.
+ 
+ [Clique aqui para jogar!](https://nl-space-shooter.netlify.app)
 
 <br>
 <br>
